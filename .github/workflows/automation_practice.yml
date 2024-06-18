@@ -1,4 +1,4 @@
-name: Robot Web Automation Practice
+name: Robot Framework Web Automation Practice
 
 on: 
   # Triggers the workflow on push or pull request events but only for the "main" branch
@@ -38,7 +38,6 @@ jobs:
       with:
         name: robot-results
         path: ./results
-
 
 
 
